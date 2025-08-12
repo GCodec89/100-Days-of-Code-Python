@@ -1,1 +1,18 @@
 # 100-Days-of-Code-Python
+
+Day 7:
+Hangman
+It replicates the concept of the game Hangman. It served to consolidate knowledge acquired about lists, if and while logic, and random functions.
+
+Day 8:
+Ceaser's Cipher (https://en.wikipedia.org/wiki/Caesar_cipher)
+The program encodes or decodes a message entered by the user. It was designed to accept integer numbers (positive or negative).
+
+Day 9:
+Blind Auction
+This program accepts an 'n' number of users, each entering the amount they are willing to pay in this silent auction. The program accepts numbers with a maximum of two decimal places. It was a great project to begin studying dictionaries in Python.
+
+Day 11:
+Blackjack
+A mini Blackjack game.
+This project was great to consolidate and apply all the concepts learned up to this point. Such as functions with inputs and/or outputs, lists, dictionaries, nested lists, as well as programming logic.
