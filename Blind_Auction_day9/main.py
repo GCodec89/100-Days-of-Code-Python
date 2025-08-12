@@ -6,6 +6,8 @@ print("Welcome to the secret auction program!")
 auction_is_on = True
 auction_dictionary = {}
 right_bid = False
+name = ""
+bid = 0.0
 while auction_is_on:
     name = input("What is your name? ")
 
