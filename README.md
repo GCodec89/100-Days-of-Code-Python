@@ -16,3 +16,9 @@ Day 11:
 Blackjack
 A mini Blackjack game.
 This project was great to consolidate and apply all the concepts learned up to this point. Such as functions with inputs and/or outputs, lists, dictionaries, nested lists, as well as programming logic.
+
+Day 15:
+Coffee Machinhe
+A simple Python console program that simulates a coffee machine.
+You can order espresso, latte, or cappuccino, insert coins, receive change, check remaining resources, and turn the machine off.
+It checks ingredient availability and payment before preparing the drink.
