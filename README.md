@@ -22,3 +22,8 @@ Coffee Machinhe
 A simple Python console program that simulates a coffee machine.
 You can order espresso, latte, or cappuccino, insert coins, receive change, check remaining resources, and turn the machine off.
 It checks ingredient availability and payment before preparing the drink.
+
+Day 17:
+Quiz Project
+A simple quiz game developed as the first project using Object-Oriented Programming (OOP) concepts.
+The game presents True or False questions, allowing players to test their knowledge in a fun and interactive way. All questions are sourced from the Open Trivia Database (opentdb.com).
