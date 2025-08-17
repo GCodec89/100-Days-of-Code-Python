@@ -27,3 +27,14 @@ Day 17:
 Quiz Project
 A simple quiz game developed as the first project using Object-Oriented Programming (OOP) concepts.
 The game presents True or False questions, allowing players to test their knowledge in a fun and interactive way. All questions are sourced from the Open Trivia Database (opentdb.com).
+
+Day 20 and 21:
+A classic Snake game built with Python’s turtle graphics module.
+    - The snake moves continuously and grows longer each time it eats food.
+    - The score increases with every piece of food eaten.
+    - The game ends if the snake collides with the wall or with its own body.
+    - Smooth controls prevent instant 180° turns, making the gameplay more natural.
+    - The snake gradually speeds up with each food item collected, increasing the challenge.
+This project is a fun way to practice object-oriented programming in Python and to get hands-on experience with game loops, collision detection, and event-driven input handling.
+
+
