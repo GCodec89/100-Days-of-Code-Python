@@ -38,3 +38,7 @@ A classic Snake game built with Python’s turtle graphics module.
 This project is a fun way to practice object-oriented programming in Python and to get hands-on experience with game loops, collision detection, and event-driven input handling.
 
 
+Day 28:
+A simple Pomodoro timer built with Python’s Tkinter.
+It uses Canvas, Label, and Button widgets for the UI, and relies on after() / after_cancel() for non-blocking countdown scheduling.
+The program manages state (reps, is_running, timer) to prevent multiple timers, handle work/break cycles, and reset automatically after a full session.
