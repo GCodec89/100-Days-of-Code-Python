@@ -37,8 +37,11 @@ A classic Snake game built with Python’s turtle graphics module.
     - The snake gradually speeds up with each food item collected, increasing the challenge.
 This project is a fun way to practice object-oriented programming in Python and to get hands-on experience with game loops, collision detection, and event-driven input handling.
 
-
 Day 28:
 A simple Pomodoro timer built with Python’s Tkinter.
 It uses Canvas, Label, and Button widgets for the UI, and relies on after() / after_cancel() for non-blocking countdown scheduling.
 The program manages state (reps, is_running, timer) to prevent multiple timers, handle work/break cycles, and reset automatically after a full session.
+
+Day 34:
+An upgraded version of the Day 17 quiz game, now fetching dynamic questions from the Open Trivia Database API. Players can test their knowledge with different categories, difficulties, and question types in real-time.
+The project is built using Python and leverages the requests library to fetch data from the Open Trivia Database API. JSON is used to handle and process the data, while Object-Oriented Programming (OOP) principles structure the code in a modular and maintainable way. The game fetches live questions from the API, allows players to select categories, difficulty levels, and question types (True/False or multiple choice), and offers interactive gameplay with real-time scoring.
